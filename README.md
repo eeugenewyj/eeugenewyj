@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there, I'm Eugene!
 
-<!--
-**eeugenewyj/eeugenewyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Year 2 - Information Security Student at SIT**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me  
+- 🔐 Passionate about **Cybersecurity**, **Network Security**, and **Ethical Hacking**  
+- 🧠 Currently learning **Red Team** and **Blue Team** concepts through online labs and CTFs  
+- 🧰 Exploring tools like **Nmap**, **Burp Suite**, **Wireshark**, **Metasploit**, and **Splunk**  
+- 💬 I love discussing **threat analysis**, **vulnerability research**, and **digital forensics**  
+- 🌱 Always learning and experimenting with CTF on **TryHackMe**, **Hack The Box**!
+
+---
+
+### ⚙️ Current Focus  
+- 🛡️ Building a strong foundation in **network and application security**  
+- 🧩 Practicing **penetration testing techniques** in lab environments  
+- 📚 Studying for certifications (e.g., **CCNA**, **CCNP** and **OSCP**)  
+
+---
+
+> “Security is not a product, but a process.” — Bruce Schneier
