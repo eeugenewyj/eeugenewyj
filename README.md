@@ -5,19 +5,15 @@
 ---
 
 ### 🧩 About Me  
-- 🔐 Passionate about **Cybersecurity**, **Network Security**, and **Ethical Hacking**  
-- 🧠 Currently learning **Red Team** and **Blue Team** concepts through online labs and CTFs  
-- 🧰 Exploring tools like **Nmap**, **Burp Suite**, **Wireshark**, **Metasploit**, and **Splunk**  
+- 🔐 Passionate about **Cybersecurity**, **Network Security**, and **Ethical Hacking**    
+- 🧰 Exploring tools like **Nmap**, **Burp Suite**, **Wireshark**, **Sqlmap** and **Metasploit** 
 - 💬 I love discussing **threat analysis**, **vulnerability research**, and **digital forensics**  
-- 🌱 Always learning and experimenting with CTF on **TryHackMe**, **Hack The Box**!
+- 🌱 Enjoys learning and experimenting with CTF on **TryHackMe**, **Hack The Box**!
 
 ---
 
 ### ⚙️ Current Focus  
-- 🛡️ Building a strong foundation in **network and application security**  
+- 🛡️ Building a strong foundation in **Network & Cybersecurity**  
 - 🧩 Practicing **penetration testing techniques** in lab environments  
 - 📚 Studying for certifications (e.g., **CCNA**, **CCNP** and **OSCP**)  
 
----
-
-> “Security is not a product, but a process.” — Bruce Schneier
