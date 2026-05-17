@@ -15,5 +15,5 @@
 ### ⚙️ Current Focus  
 - 🛡️ Building a strong foundation in **Network & Cybersecurity**  
 - 🧩 Practicing **penetration testing techniques** in lab environments  
-- 📚 Studying for certifications (e.g., **CCNA**, **CCNP** and **OSCP**)  
+- 📚 Studying for **CPTS | HTB Academy** 
 
